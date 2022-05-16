@@ -1,1 +1,1 @@
-My second readme.Did it from the git command line.
+My second readme
